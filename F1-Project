@@ -1,0 +1,21 @@
+<html>
+    <title>F1</title>
+    <body>
+        <header style="display:inline-blocks;background-color:red;text-align:center">
+
+            <img src="https://mir-s3-cdn-cf.behance.net/projects/404/f3ddc3220150871.67c2148e860fe.png" width="100px">
+            <h1>F1</h1>
+        </header>
+        <main>
+            <h2>What is F1?</h2>
+            <p>Formula One (F1) is the most prestigious international open-wheel, single-seat automobile racing series in the world. It is governed by the Fédération Internationale de l'Automobile (FIA).</p>
+            <img src="https://miro.medium.com/v2/resize:fit:1400/1*tMbMJnkP9U9vlfjdZr0cjg.png" width="200px" ">
+            <h2>My favorite team</h2>
+            <p>Oracle has been the title sponsor of the Formula 1 team Oracle Red Bull Racing since 2022, expanding on a technology partnership that began in 2021. The multi-year deal, reportedly worth around $100 million annually, is one of the most lucrative sponsorships in sports history.</p>
+            <img src="https://www.sparco-official.com/media/.renditions/wysiwyg/NEWS-LIST/2025/2025-NEW-LIVERY-GP-GIAPPONE/SPARCO_NEW_LIVERY.jpg?auto=webp&format=pjpg&quality=85" width="200px">
+        </main>
+        <footer style="font-size:50px;background-color:lightgray; text-align:center">
+            <h3>made by Lexqy wijaya</h3>
+        </footer>
+    </body>
+</html>
